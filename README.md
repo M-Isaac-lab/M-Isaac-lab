@@ -24,6 +24,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,html,css,js,php,ts,nextjs,prisma,figma,npm,postgres,react,nodejs,gcp,debian,express,fastapi,flask,mongodb,nestjs,jest,cypress,bootstrap,tailwind,docker,figma,supabase,postgres,laravel,git,postman,linux,vercel,webstorm,phpstorm,visualstudio" />
   </a>
+  <a href="https://app.daily.dev/isaacquentinbedianderikam"><img src="https://api.daily.dev/devcards/v2/nULbTh1o6QLwQ3yDD11bL.png?type=default&r=s7w" width="356" alt="Isaac Quentin BEDIAN DE RIKAM's Dev Card"/></a>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=M-Isaac-lab&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="M-Isaac-lab" /></p>
 
