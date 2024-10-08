@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Reseau_-Social_Nest_js](https://github.com/M-Isaac-lab/Reseau_-Social_Nest_js)
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **NestJs**
 
 - 🤔 I’m looking for help with [Reseau_-Social_Nest_js](https://github.com/M-Isaac-lab/Reseau_-Social_Nest_js)
 
