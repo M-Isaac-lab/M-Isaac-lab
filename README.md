@@ -22,7 +22,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,html,css,ts,nextjs,nestjs,jest,cypress,tailwind,docker,figma,supabase,postgres,laravel,git,postman,linux,vercel,webstorm,phpstorm,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=python,html,css,js,php,ts,nextjs,reactjs,nestjs,jest,cypress,bootstrap,tailwind,docker,figma,supabase,postgres,laravel,git,postman,linux,vercel,webstorm,phpstorm,visualstudio" />
   </a>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=M-Isaac-lab&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="M-Isaac-lab" /></p>
