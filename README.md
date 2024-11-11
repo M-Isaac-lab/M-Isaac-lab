@@ -22,7 +22,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,html,css,js,php,ts,nextjs,prisma,figma,npm,postgres,react,nodejs,gcp,debian,express,fastapi,flask,mongodb,nestjs,jest,cypress,bootstrap,tailwind,docker,figma,supabase,postgres,laravel,git,postman,linux,vercel,webstorm,phpstorm,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=python,html,css,js,php,ts,nextjs,vue,prisma,figma,npm,postgres,react,nodejs,gcp,debian,express,fastapi,flask,mongodb,nestjs,jest,cypress,bootstrap,tailwind,docker,supabase,postgres,laravel,git,postman,linux,vercel,webstorm,phpstorm,visualstudio" />
   </a>
   
 </p>
